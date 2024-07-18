@@ -4,7 +4,7 @@ A basic smart contract to manage a cryptocurrency token called "getthetoken", al
 
 ## Description
 
-This project involves developing a smart contract for a cryptocurrency token named "GetToken" (symbol: Gttkns) using Solidity. The contract enables users to mint (create) and burn (destroy) tokens, with functionalities to adjust the total supply and individual balances accordingly. By maintaining a mapping of address balances, the contract ensures accurate tracking of token ownership. This project provides a foundational framework for managing digital assets, suitable for educational purposes, experimental projects, or as a starting point for more complex token systems.
+This project involves developing a smart contract for a cryptocurrency token named "getthetoken" (symbol: Gttkns) using Solidity. The contract enables users to mint (create) and burn (destroy) tokens, with functionalities to adjust the total supply and individual balances accordingly. By maintaining a mapping of address balances, the contract ensures accurate tracking of token ownership. This project provides a foundational framework for managing digital assets, suitable for educational purposes, experimental projects, or as a starting point for more complex token systems.
 
 ## Getting Started
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
